@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/IanDCarroll/SeptemberApp.svg?branch=master)](https://travis-ci.com/IanDCarroll/SeptemberApp)
 # September App
 
 This app is an example ASP.NET project used to demonstrate git in Visual Studio
